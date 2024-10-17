@@ -1,9 +1,9 @@
 <?php
     // Configuration your website
-    $title = "Title website"; // title website
+    $title = "Montana"; // title website
     $favicon = "./assets/image/favicon.svg"; // favicon website
     $logo = "./assets/image/logo.svg"; // logo server
-    $name = "Name server"; // name server
+    $name = "Montana"; // name server
     $description = "Description server"; // description server
     // Configuration your server
     $ip = "127.0.0.1"; // ip address server
